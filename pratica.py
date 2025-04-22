@@ -39,7 +39,6 @@ def calcular_ir(dias, rendimento_apos_iof):
     valor_ir = rendimento_apos_iof * (percentual_ir / 100)
     return valor_ir
 
-# Correção começa aqui
 taxa_diaria = calcular_taxa_diaria()
 rendimento = calcular_rendimento_bruto(valor_inicial, dias_investimento, taxa_diaria)
 valor_iof = calcular_iof(dias_investimento, rendimento)
