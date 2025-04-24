@@ -3,6 +3,8 @@
 # Malu Calland - 2314290066
 # João Schettini - 2324290060
 # Sarah Mahdavi - 2324290099
+# João Vitor Fonseca - 2324290097
+# Ana Beatriz Alves - 2324290082
 
 # TRABALHO EM GRUPO
 
