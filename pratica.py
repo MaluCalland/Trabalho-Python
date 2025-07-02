@@ -1,13 +1,3 @@
-# Alunos:
-# Bruna Brandão - 2314290051
-# Malu Calland - 2314290066
-# João Schettini - 2324290060
-# Sarah Mahdavi - 2324290099
-# João Vitor Fonseca - 2324290097
-# Ana Beatriz Alves - 2324290082
-
-# TRABALHO EM GRUPO
-
 valor_inicial = float(input('\nVALOR INICIAL A SER DEPOSITADO NA CAIXINHA SUPER COFRINHO: '))
 dias_investimento = int(input('DIAS PARA SEU INVESTIMENTO: '))
 print(f'\nValor inicial da aplicação: R${valor_inicial:.2f}')
